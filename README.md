@@ -1,40 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Barber PRO
+Management system for barbershops.
 
-## Getting Started
+## Technology 
 
-First, run the development server:
+Here are the technologies used in this project.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* React
+* Typescript
+* Next
+* Chakra UI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Services Used
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+* Github
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Project Images
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 1 - Sign up
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![1](https://github.com/iAmBiel/Web-Carros/assets/107372647/8131162b-6a64-468e-b1b2-01c0aa70a4f6)
 
-## Learn More
+### 2 - Sign in
 
-To learn more about Next.js, take a look at the following resources:
+![2](https://github.com/iAmBiel/Web-Carros/assets/107372647/20113ffa-c689-4958-a485-79eb6999238c)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 3 - Home
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![3](https://github.com/iAmBiel/Web-Carros/assets/107372647/48fdf4f8-1d7c-414e-b164-561a384e33fe)
 
-## Deploy on Vercel
+### 4 - Haircuts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![4](https://github.com/iAmBiel/Web-Carros/assets/107372647/1fe41c80-22d1-4270-a3a9-23f05d6e7cfc)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 5 - New Haircut
+
+![5](https://github.com/iAmBiel/Web-Carros/assets/107372647/1fe41c80-22d1-4270-a3a9-23f05d6e7cfc)
+
+### 6 - Edit Haircut
+
+![6](https://github.com/iAmBiel/Web-Carros/assets/107372647/708a27be-83c0-443a-abdb-52c401a923f2)7
+
+### 7 - New Service
+
+![7](https://github.com/iAmBiel/Web-Carros/assets/107372647/0052d22a-bd51-4512-a162-69653fda6f74)
+
+### 8 - Account
+
+![8](https://github.com/iAmBiel/Web-Carros/assets/107372647/7e07afca-7324-4672-90b2-8c1d824fc9b9)
+
+### 9 - Subscription Plans
+
+![9](https://github.com/iAmBiel/Web-Carros/assets/107372647/a2965596-cc04-41f1-98a3-b6e83ee723e5)
+
+## Authors
+
+* **Gabriel Vieira Marques** 
+
+Please follow github!
+Thanks to visiting me and good coding!
+
