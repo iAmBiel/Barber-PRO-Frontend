@@ -35,7 +35,7 @@ Here are the technologies used in this project.
 
 ### 5 - New Haircut
 
-![5](https://github.com/iAmBiel/Web-Carros/assets/107372647/1fe41c80-22d1-4270-a3a9-23f05d6e7cfc)
+![5](https://github.com/user-attachments/assets/1cc604b8-33da-449d-9614-2d7ec38a2469)
 
 ### 6 - Edit Haircut
 
