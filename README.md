@@ -1,5 +1,5 @@
 ## Barber PRO
-Management system for barbershops.
+Management system for barbershop.
 
 ## Technology 
 
